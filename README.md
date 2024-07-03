@@ -37,7 +37,7 @@ f. SizeRank: A rank based on the size or other criteria of the region.
 
 g. Date Columns: Columns representing monthly real estate prices for each region. These columns typically have dates as their headers, ranging from 1996 to 2018 (e.g., 1996- 01, 1996-02, etc.).
 
-##OBJECTIVES
+## OBJECTIVES
 
 Trend Analysis
 To Identify long-term trends in property values across different regions.
